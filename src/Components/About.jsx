@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { HiOutlineXMark } from "react-icons/hi2";
 import { FaUserFriends } from "react-icons/fa";
 import { FaPhone } from "react-icons/fa";

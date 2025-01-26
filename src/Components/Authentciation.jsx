@@ -29,7 +29,7 @@ export default function Authentication() {
       if (activeTab === "login") {
         const { email, password } = formData;
         const response = await axios.post(
-          "https://nodejs-authentication-79mh-d4hjjc52o.vercel.app/api/user/signin",
+          "https://nodejs-authentication-vwth.vercel.app/signin",
           { email, password }
         );
         localStorage.setItem("token", response.data.token);
@@ -44,7 +44,7 @@ export default function Authentication() {
           return;
         }
         const response = await axios.post(
-          "https://nodejs-authentication-79mh-d4hjjc52o.vercel.app/api/user/signup",
+          "https://nodejs-authentication-vwth.vercel.app/signup",
           { username, email, password }
         );
         localStorage.setItem("token", response.data.token);
