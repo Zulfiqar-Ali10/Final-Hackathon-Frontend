@@ -61,8 +61,8 @@ const Navbar = () => {
               <a href="#">
                 <FaLinkedinIn className="fab fa-linkedin-in" />
               </a>
-              <button className="signUp">SignUp</button>
             </div>
+              <Link className="signUp" to="/signup" >Login</Link>
           </nav>
         </div>
       </header>
