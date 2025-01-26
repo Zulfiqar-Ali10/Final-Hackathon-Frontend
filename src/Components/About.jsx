@@ -19,7 +19,7 @@ export default function About() {
   <div className="container">
     <div className="row g-4 align-items-end mb-4">
       <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-        <img className="img-fluid rounded" src="img/about.jpg" />
+        <img className="img-fluid rounded" src="/img/about.jpg" />
       </div>
       <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.3s">
         <p className="d-inline-block border rounded text-primary fw-semi-bold py-1 px-3">

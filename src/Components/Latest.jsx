@@ -43,7 +43,7 @@ export default function Latest() {
             <SwiperSlide>
               <div className="project-item pe-5 pb-5">
                 <div className="project-img mb-3">
-                  <img className="img-fluid rounded" src="img/service-1.jpg" alt="Service 1" />
+                  <img className="img-fluid rounded" src="/img/service-1.jpg" alt="Service 1" />
                   <a href="#">
                     <i className="fa fa-link fa-3x text-primary" />
                   </a>
@@ -56,7 +56,7 @@ export default function Latest() {
             <SwiperSlide>
               <div className="project-item pe-5 pb-5">
                 <div className="project-img mb-3">
-                  <img className="img-fluid rounded" src="img/service-2.jpg" alt="Service 2" />
+                  <img className="img-fluid rounded" src="/img/service-2.jpg" alt="Service 2" />
                   <a href="#">
                     <i className="fa fa-link fa-3x text-primary" />
                   </a>
@@ -69,7 +69,7 @@ export default function Latest() {
             <SwiperSlide>
               <div className="project-item pe-5 pb-5">
                 <div className="project-img mb-3">
-                  <img className="img-fluid rounded" src="img/service-3.jpg" alt="Service 3" />
+                  <img className="img-fluid rounded" src="/img/service-3.jpg" alt="Service 3" />
                   <a href="#">
                     <i className="fa fa-link fa-3x text-primary" />
                   </a>
@@ -82,7 +82,7 @@ export default function Latest() {
             <SwiperSlide>
               <div className="project-item pe-5 pb-5">
                 <div className="project-img mb-3">
-                  <img className="img-fluid rounded" src="img/service-4.jpg" alt="Service 4" />
+                  <img className="img-fluid rounded" src="/img/service-4.jpg" alt="Service 4" />
                   <a href="#">
                     <i className="fa fa-link fa-3x text-primary" />
                   </a>

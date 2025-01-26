@@ -24,7 +24,7 @@ export default function Team() {
     <div className="row g-4">
       <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
         <div className="team-item">
-          <img className="img-fluid rounded" src="img/team-1.jpg" alt="" />
+          <img className="img-fluid rounded" src="/img/team-1.jpg" alt="" />
           <div className="team-text">
             <h4 className="mb-0">Kate Winslet</h4>
             <div className="team-social d-flex">
@@ -49,7 +49,7 @@ export default function Team() {
       </div>
       <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
         <div className="team-item">
-          <img className="img-fluid rounded" src="img/team-2.jpg" alt="" />
+          <img className="img-fluid rounded" src="/img/team-2.jpg" alt="" />
           <div className="team-text">
             <h4 className="mb-0">Jac Jacson</h4>
             <div className="team-social d-flex">
@@ -68,7 +68,7 @@ export default function Team() {
       </div>
       <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
         <div className="team-item">
-          <img className="img-fluid rounded" src="img/team-3.jpg" alt="" />
+          <img className="img-fluid rounded" src="/img/team-3.jpg" alt="" />
           <div className="team-text">
             <h4 className="mb-0">Doris Jordan</h4>
             <div className="team-social d-flex">

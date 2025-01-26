@@ -19,7 +19,7 @@ export default function Banner() {
       >
         {/* Slide 1 */}
         <SwiperSlide>
-          <img className="w-100" src="img/carousel-2.jpg" alt="Image 1" />
+          <img className="w-100" src="/img/carousel-2.jpg" alt="Image 1" />
           <div className="carousel-caption">
             <div className="container">
               <div className="row justify-content-start">
@@ -41,7 +41,7 @@ export default function Banner() {
 
         {/* Slide 2 */}
         <SwiperSlide>
-          <img className="w-100" src="img/carousel-2.jpg" alt="Image 2" />
+          <img className="w-100" src="/img/carousel-2.jpg" alt="Image 2" />
           <div className="carousel-caption">
             <div className="container">
               <div className="row justify-content-start">

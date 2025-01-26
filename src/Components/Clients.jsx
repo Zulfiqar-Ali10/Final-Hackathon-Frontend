@@ -45,7 +45,7 @@ export default function Clients() {
                 </div>
                 <img
                   className="rounded-circle mb-3"
-                  src="img/testimonial-1.jpg"
+                  src="/img/testimonial-1.jpg"
                   alt="Client 1"
                 />
                 <h4>Client Name</h4>
@@ -66,7 +66,7 @@ export default function Clients() {
                 </div>
                 <img
                   className="rounded-circle mb-3"
-                  src="img/testimonial-2.jpg"
+                  src="/img/testimonial-2.jpg"
                   alt="Client 2"
                 />
                 <h4>Client Name</h4>
@@ -87,7 +87,7 @@ export default function Clients() {
                 </div>
                 <img
                   className="rounded-circle mb-3"
-                  src="img/testimonial-3.jpg"
+                  src="/img/testimonial-3.jpg"
                   alt="Client 3"
                 />
                 <h4>Client Name</h4>
@@ -108,7 +108,7 @@ export default function Clients() {
                 </div>
                 <img
                   className="rounded-circle mb-3"
-                  src="img/testimonial-4.jpg"
+                  src="/img/testimonial-4.jpg"
                   alt="Client 4"
                 />
                 <h4>Client Name</h4>

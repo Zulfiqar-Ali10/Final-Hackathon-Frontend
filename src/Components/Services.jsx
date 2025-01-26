@@ -82,7 +82,7 @@ export default function Services() {
                 <div className="position-relative h-100">
                   <img
                     className="position-absolute rounded w-100 h-100"
-                    src="img/service-1.jpg"
+                    src="/img/service-1.jpg"
                     style={{ objectFit: "cover" }}
                     alt=""
                   />
@@ -121,7 +121,7 @@ export default function Services() {
                 <div className="position-relative h-100">
                   <img
                     className="position-absolute rounded w-100 h-100"
-                    src="img/service-2.jpg"
+                    src="/img/service-2.jpg"
                     style={{ objectFit: "cover" }}
                     alt=""
                   />
@@ -160,7 +160,7 @@ export default function Services() {
                 <div className="position-relative h-100">
                   <img
                     className="position-absolute rounded w-100 h-100"
-                    src="img/service-3.jpg"
+                    src="/img/service-3.jpg"
                     style={{ objectFit: "cover" }}
                     alt=""
                   />
@@ -199,7 +199,7 @@ export default function Services() {
                 <div className="position-relative h-100">
                   <img
                     className="position-absolute rounded w-100 h-100"
-                    src="img/service-4.jpg"
+                    src="/img/service-4.jpg"
                     style={{ objectFit: "cover" }}
                     alt=""
                   />
