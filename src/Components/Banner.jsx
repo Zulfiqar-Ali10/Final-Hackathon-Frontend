@@ -51,7 +51,7 @@ export default function Banner() {
                     True Financial Support For You
                   </h1>
                   <a href="" className="btn btn-primary py-3 px-5">
-                    Explore More and more and more you to
+                    Explore More and more and more you to and more
                   </a>
                 </div>
               </div>
