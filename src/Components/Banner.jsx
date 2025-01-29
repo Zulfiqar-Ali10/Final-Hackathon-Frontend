@@ -48,7 +48,7 @@ export default function Banner() {
                     Welcome to Finanza
                   </p>
                   <h1 className="display-1 mb-4">
-                    True Financial Support For Your and others
+                    True Financial Support For You
                   </h1>
                   <a href="" className="btn btn-primary py-3 px-5">
                     Explore More
