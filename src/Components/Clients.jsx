@@ -90,7 +90,7 @@ export default function Clients() {
                   src="/img/testimonial-3.jpg"
                   alt="Client 3"
                 />
-                <h4>Client Name and name</h4>
+                <h4>Client Name</h4>
                 <span>Profession</span>
               </div>
             </SwiperSlide>
