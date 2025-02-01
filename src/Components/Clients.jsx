@@ -102,7 +102,7 @@ export default function Clients() {
                   <div className="btn-square bg-white border rounded-circle">
                     <i className="fa fa-quote-right fa-2x text-primary" />
                   </div>
-                  Dolores sed duo clita tempor justo dolor et stet lorem kasd labore
+                  Dolores sed dua clita tempor justo dolor et stet lorem kasd labore
                   dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et
                   tempor diam tempor erat.
                 </div>
