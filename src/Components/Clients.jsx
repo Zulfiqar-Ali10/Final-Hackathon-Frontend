@@ -91,7 +91,7 @@ export default function Clients() {
                   alt="Client 3"
                 />
                 <h4>Client Name</h4>
-                <span>Professionl Cv</span>
+                <span>Professionl</span>
               </div>
             </SwiperSlide>
 
