@@ -75,7 +75,7 @@ export default function Footer() {
       <div className="col-lg-3 col-md-6">
         <h4 className="text-white mb-4">Services</h4>
         <a className="btn btn-link" href="">
-          Financial Planning
+          Financial Planninger and humans
         </a>
         <a className="btn btn-link" href="">
           Cash Investment
