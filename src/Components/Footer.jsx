@@ -78,7 +78,7 @@ export default function Footer() {
           Financial Planning
         </a>
         <a className="btn btn-link" href="">
-          Cash Investment
+          Cash Investmenting and 
         </a>
         <a className="btn btn-link" href="">
           Financial Consultancy
