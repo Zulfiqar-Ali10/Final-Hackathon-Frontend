@@ -17,7 +17,7 @@ const Navbar = () => {
       <header className="header">
         <div className="containers">
           <a href="/" className="logo">
-            Finanza lastest
+            Finanza
           </a>
 
           <button className="menu-toggle" onClick={toggleMenu}>
