@@ -42,7 +42,7 @@ const Navbar = () => {
                 ></i>
               </Link>
               <div className="dropdown-content">
-                <a href="/projects">Projects</a>
+                <a href="/projects">Project</a>
                 <a href="/features">Features</a>
                 <a href="/team">Team Member</a>
                 <a href="/testimonial">Testimonial</a>
